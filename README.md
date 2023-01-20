@@ -2,15 +2,14 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/tayfunceylan/portfolio/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  tyfn.de
+  My Portfolio Webpage
 </h1>
 <p align="center">
-  built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and served with NGINX inside a docker container
+  built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with Github
 </p>
 
-![demo](https://raw.githubusercontent.com/tayfunceylan/portfolio/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/TinTin0202/portfolio1/main/demo%20capture.PNG)
 
-## 🚨 This is a fork of [fork](https://github.com/bchiang7/v4)
 
 ## 🛠 Installation & Set Up
 
@@ -64,5 +63,6 @@
 | Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
-"# TinTin0202.github.io" 
+
+Credits to Brittany Chiang for the original repo fork
 "# TinTin0202.github.io" 
