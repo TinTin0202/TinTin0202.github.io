@@ -1,15 +1,14 @@
 ---
 date: '1'
-title: 'Vertretungsplan'
+title: 'Graphic Design'
 cover: './logo.jpg'
-github: 'https://github.com/tayfunceylan/vertretungsplan'
 tech:
-  - VS-Code
-  - Python
-  - Cron
-  - Telegram-Bot-API
+  - Photoshop
+  - Lightroom
+  - Canva
+  - Publisher
+  
 ---
 
-Personalisierte Vertretungsplanberichte.
+Creative and expressive graphic design made for a range of clients, consisting of flyers, posters, invitations and many more
 
-Ein Service für den Vertretungsplan der GES Bochum.

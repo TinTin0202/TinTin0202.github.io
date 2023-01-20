@@ -1,15 +1,12 @@
 ---
 date: '2'
-title: 'ÖPNV FahrplanBot'
+title: 'Oxbridge Mentorship'
 cover: './demo.png'
-github: 'https://github.com/tayfunceylan/FahrplanBot'
-external: 'https://t.me/weiserbot'
+external: https://www.ox.ac.uk/'
 tech:
-  - VS-Code
-  - Python
-  - Insomnia
-  - Docker
-  - Telegram-Bot-API
+  - Admissions
+  - Workshops
+  - Entrance Exams
 ---
 
-A telegram bot for showing departure monitors for public transport. View departure times for your stops including delays. Create line filter to only show the lines you need. You can also choose a direction. Refresh the message at any time.
+Held mentorship programmes for aspiring state school students applying to Oxford and Cambridge University
