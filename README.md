@@ -5,7 +5,7 @@
   My Portfolio Webpage
 </h1>
 <p align="center">
-  built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with Github
+  built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github</a>
 </p>
 
 ![demo](https://raw.githubusercontent.com/TinTin0202/portfolio1/main/demo%20capture.PNG)
