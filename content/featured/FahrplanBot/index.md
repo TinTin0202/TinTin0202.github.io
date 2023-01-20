@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'ÖPNV FahrplanBot'
-cover: './demo.jpeg'
+cover: './demo.png'
 github: 'https://github.com/tayfunceylan/FahrplanBot'
 external: 'https://t.me/weiserbot'
 tech:

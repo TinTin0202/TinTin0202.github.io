@@ -64,7 +64,7 @@ const Contact = () => {
         question or just want to say hi, I’ll try my best to get back to you!
       </p>
 
-      <a className="email-link" href="https://www.xing.com/profile/Tayfun_Ceylan3">
+      <a className="email-link" href="mailto:tinureji1@gmail.com">
         Say Hello
       </a>
     </StyledContactSection>

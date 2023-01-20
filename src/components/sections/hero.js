@@ -60,22 +60,21 @@ const Hero = () => {
 
   const one = <h1>Hi, I'm</h1>;
   const two = <h2 className="big-heading">Tinu Reji</h2>;
-  const three = <h3 className="big-heading">Welcome to my webpage!.</h3>;
+  const three = <h3 className="big-heading">Welcome to my webpage!</h3>;
   const four = (
     <>
       <p>
-        I’m an IT student specializing in cryptography. In my free
-        time I like tinker with programming projects .
+        I’m a student at the University of Oxford with an interest in Economics, Finance and Web Development
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://github.com/tayfunceylan"
+      href="mailto:tinureji1@gmail.com"
       target="_blank"
       rel="noreferrer">
-      Check out my GitHub!
+      Get in Touch!
     </a>
   );
 

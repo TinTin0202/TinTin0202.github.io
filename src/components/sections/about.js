@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'SQLite', 'Flutter', 'Dart', 'C/C++', 'C#'];
+  const skills = ['HTML', 'CSS', 'JavaScript', 'SQL', 'Gatsby', 'NodeJS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,23 +136,17 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Helloo! My name is Tinu and I enjoy creating things. My interest in programming
-              started back in 2018 when I was in school. I decided that I want to get notified if
-              there were changes on our substition schedules (Vertretungungsplan). So I began
-              teaching myself Python and hooking that script on a Raspberry Pi. It didn't last long
-              until my classmates wanted to take advantage of the program as well. It became very
-              popular at school. In the end there were approximately 150 registered users. I was
-              constantly adding new features to the program and had a lot of fun. — turns out web
-              scraping our schedule at school taught me a lot about Python, managing a server and
-              programming in general!
+              Hello! My name is Tinu and I am a student at the University of Oxford studying Economics and Management.
+              I am a dedicated and accomplished individual with a proficient academic background, and an advanced skill set. I hope to one day enter a career in Finance.
+                 
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of studying IT-Security at
-              Ruhr-Universität Bochum.
+            I have always had a particular interest in Economics, even from a young age, leading me to 
+               pursue it as my degree. During my free time I like to play the piano, read novels and code.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>I also like to mess around with various web development projects. Here are some of my competencies:</p>
           </div>
 
           <ul className="skills-list">

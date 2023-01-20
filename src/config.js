@@ -1,7 +1,11 @@
 module.exports = {
-  email: 'Tayfun Ceylan',
-
+  email: 'Tinu Reji',
+  
   socialMedia: [
+    {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/tinu-reji-77a478262/',
+    },
     {
       name: 'GitHub',
       url: 'https://github.com/tayfunceylan',
