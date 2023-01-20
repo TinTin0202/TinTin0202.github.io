@@ -2,9 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Tayfun Ceylan',
-    description: 'Tayfun Ceylan is an IT student specializing in cryptography.',
-    siteUrl: 'https://tydn.de', // No trailing slash allowed!
+    title: 'Tinu Reji',
+    description: 'Tinu Reji is an IT student specializing in cryptography.',
+    siteUrl: 'https://TinTin0202.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
   },
   plugins: [
