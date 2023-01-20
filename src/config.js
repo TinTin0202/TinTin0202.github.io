@@ -11,8 +11,8 @@ module.exports = {
       url: 'https://github.com/TinTin0202',
     },
     {
-      name: 'Xing',
-      url: 'https://www.xing.com/profile/Tayfun_Ceylan3',
+      name: 'External',
+      url: 'mailto:tinureji1@gmail.com',
     },
   ],
 
