@@ -65,6 +65,3 @@
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
 
 Credits to Brittany Chiang for the original repo fork
-"# TinTin0202.github.io" 
-"# TinTin0202.github.io" 
-"# TinTin0202.github.io" 
