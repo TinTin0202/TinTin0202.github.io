@@ -8,7 +8,7 @@
   built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github</a>
 </p>
 
-![demo](https://raw.githubusercontent.com/TinTin0202/portfolio1/main/demo%20capture.PNG)
+![demo](https://raw.githubusercontent.com/TinTin0202/TinTin0202.github.io/main/demo%20capture.PNG)
 
 
 ## 🛠 Installation & Set Up
