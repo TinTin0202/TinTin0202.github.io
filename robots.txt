@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://tinureji.com/sitemap-index.xml
+Host: https://tinureji.com
